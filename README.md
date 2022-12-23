@@ -6,7 +6,7 @@
 
 ## Penjelasan Singkat
 Integrasi Romberg merupakan salah satu metode ekstrapolasi yang didasarkan pada perluasan ekstrapolasi Richardson, dimana pada setiap penerapan ekstrapolasi Richadson akan menaikkan orde galat pada hasil solusinya sebesar dua. (Google)
-https://github.com/arda294/P2_Komnum_E2/blob/d72fe32fd6f63fbdaeaf8f6bf8225b7ffff03607/ConsoleApplication1/romberg.cpp#L1-L60
+
 Metode Romberg merupakan metode integrasi yang dilandaskan pada perluasan Ekstrapolasi Richardson yang dihasilkan dari aturan Metode Trapesium yang dilakukan secara terus menerus (Rekursif). Kelemahan dari metode ini adalah harus menggunakan jumlah interval yang besar guna mencapai akurasi yang diharapkan. Karena interval yang besar tersebut, diperlukan rekursi secara terus menerus agar lebih akurat.
 
 Pada dasarnya, seperti halnya algoritma integrasi adaptif, Integrasi Romberg adalah perluasan yang relatif mudah dari keluarga algoritma Newton-Cotes. Keduanya bekerja dengan menggunakan iterasi yang disempurnakan dari beberapa metode Newton-Cotes yang mendasarinya untuk memberikan perkiraan nilai integral yang cenderung lebih akurat.
