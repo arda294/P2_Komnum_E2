@@ -8,6 +8,7 @@ Data myInput::parseInput(HWND textBox, HWND startX, HWND endX, HWND result) {
 	char* next_token;
 	char separators[] = ",";
 	double y, a, b;
+
 	Data data;
 	// Ambil data dari textbox
 	GetWindowTextA(textBox, string, 400);
@@ -38,6 +39,7 @@ Data myInput::parseInput(HWND textBox, HWND startX, HWND endX, HWND result) {
 		}
 		data.push_back(y);
 	}
+	// Cek data
 	for (double y : data) {
 		std::cout << y << "\n";
 	}
