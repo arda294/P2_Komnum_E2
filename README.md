@@ -1,4 +1,4 @@
-# Integrasi Romberg
+# Integrasi Romberg **(Don't Copy Without Permission)**
 ## Kelompok 2
 - 5025211235 Ketut Arda Putra Mahotama Sadha
 - 5025211009 Muhammad Rafif Tri Risqullah
