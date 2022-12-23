@@ -18,7 +18,7 @@ Integrasi Romberg bukanlah pendekatan adaptif terhadap intergrasi. Hal tersebut 
 ![image](https://user-images.githubusercontent.com/65074635/209343946-7b263b4f-a4f1-4ea0-8a8b-37b235a16bea.png)  
 Pada romberg.cpp kita memiliki dua fungsi yakni, fungsi romberg dan fungsi trapezoid. Fungsi romberg digunakan untuk melakukan Integrasi  dengan cara pencarian interval, kemudian dilanjutkan dengan pemanggilan fungsi trapezoid, lalu menggunakan konsep perluasan Ekstrapolasi Richardson. Untuk fungsi yang trapezoid sendiri melakukan perhitungan trapezoid sebagaimana mestinya, tetapi dia memiliki reference terhadap data yang akan dieksekusi di fungsi Romberg.
 
-**Perhitungan Error Relatif**
+**Perhitungan Error Relatif**  
 ![WhatsApp Image 2022-12-23 at 21 18 50](https://user-images.githubusercontent.com/65074635/209351361-036d1664-3545-44f7-8f29-010185fe1e7e.jpg)  
 Untuk perhitungan error relatif sendiri, kita menggunakan rumus diatas dimana nantinya kita akan menghitung Er untuk setiap iterasi atau setiap ada perubahan.
 
@@ -26,11 +26,11 @@ Untuk perhitungan error relatif sendiri, kita menggunakan rumus diatas dimana na
 Data Set : (1, 0.88889, 0.8, 0.72727, 0.66667, 0.61538, 0.57143, 0.53333, 0.50000) a = 0, b = 1
 
 **Input**  
-![WhatsApp Image 2022-12-23 at 21 27 51](https://user-images.githubusercontent.com/65074635/209352841-4eeddf64-134c-4176-be7a-fdc5204a4fdc.jpg)
+![WhatsApp Image 2022-12-23 at 21 27 51](https://user-images.githubusercontent.com/65074635/209352841-4eeddf64-134c-4176-be7a-fdc5204a4fdc.jpg)  
 Memasukkan data-data melalui UI yang telah dibuat.
 
-**Result**
-![WhatsApp Image 2022-12-23 at 21 27 05](https://user-images.githubusercontent.com/65074635/209352899-3d9b92e4-d6a7-4eca-9fcd-f82b94d21fc8.jpg)
+**Result**  
+![WhatsApp Image 2022-12-23 at 21 27 05](https://user-images.githubusercontent.com/65074635/209352899-3d9b92e4-d6a7-4eca-9fcd-f82b94d21fc8.jpg)  
 Berupa output tabel Romberg.
 
 ## Referensi
