@@ -10,5 +10,5 @@ Pada dasarnya, seperti halnya algoritma integrasi adaptif, Integrasi Romberg ada
 Integrasi Romberg bukanlah pendekatan adaptif terhadap intergrasi. Gal tersebut berarti metode Romberg tiddak mengubah perilakunya sendiri berdasarkan perilaku fungsi yang akan diintegrasikan. Sebaliknya, kita juga dapat mengeksploitasi perilaku fungsi trapesiumm pada batas untuk menghasilkan estimasi integral.
 
 ## Penjelasan Program
-![image](https://user-images.githubusercontent.com/65074635/209343946-7b263b4f-a4f1-4ea0-8a8b-37b235a16bea.png)
+![image](https://user-images.githubusercontent.com/65074635/209343946-7b263b4f-a4f1-4ea0-8a8b-37b235a16bea.png)  
 Pada romberg.cpp kita memiliki dua fungsi yakni, fungsi romberg dan fungsi trapezoid.
