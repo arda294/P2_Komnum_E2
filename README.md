@@ -1,4 +1,8 @@
 # Integrasi Romberg
+## Kelompok 2
+- 5025211235 Ketut Arda Putra Mahotama Sadha
+- 5025211009 Muhammad Rafif Tri Risqullah
+- 5025211241 Anggara Saputra
 
 ## Penjelasan Singkat
 Integrasi Romberg merupakan salah satu metode ekstrapolasi yang didasarkan pada perluasan ekstrapolasi Richardson, dimana pada setiap penerapan ekstrapolasi Richadson akan menaikkan orde galat pada hasil solusinya sebesar dua. (Google)
